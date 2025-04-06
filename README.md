@@ -100,3 +100,8 @@ The YOLOv8n model (like the rest of the YOLOv8 family) is trained on the **COCO 
 
 - **YOLOv8**: Used for real-time object detection.
 - **SpeechRecognition**: Used for voice command recognition.
+
+The video example was too large, so I’ve replaced it with a screenshot. In the video, I demonstrate how to ask the AI to find specific objects. You can try this out yourself by using the code I’ve provided.
+
+![image](https://github.com/user-attachments/assets/70978f17-bf8a-4eff-9d07-03d82e9f328d)
+
