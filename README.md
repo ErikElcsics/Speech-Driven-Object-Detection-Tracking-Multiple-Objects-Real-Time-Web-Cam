@@ -29,7 +29,7 @@ This project combines **YOLOv8**, **speech recognition**, and **OpenCV** to crea
 
 Clone this repository:
 
-git clone https://github.com/ErikElcsics/Virtual-Painter-App--Real-time-Hand-Tracking-Drawing-MediaPipe-App.git
+git clone https://github.com/ErikElcsics/Speech-Driven-Object-Detection-Tracking-Multiple-Objects-Real-Time-Web-Cam.git
 
 
 ### Requirements
