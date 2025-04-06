@@ -56,7 +56,7 @@ python speech_objects_tracker.py
 ### Voice Command
 
 1. **Speech Recognition**: The application listens for voice commands using the **SpeechRecognition** library.
-2. **Extract Object Names**: When a user speaks a command, the recognized speech is parsed to check for object names (e.g., "track person", "track car").
+2. **Extract Object Names**: When a user speaks a command, the recognized speech is parsed to check for object names (e.g., "track person", "track car", "find a person", "look for a car").
 3. **Dynamic Tracking**: If a recognized object is part of the detection list, the system will start tracking it and display its bounding box.
 4. **Compound Commands**: The app can handle compound commands, such as "Track bottle and chair," allowing you to track multiple objects at once.
 
@@ -69,7 +69,7 @@ python speech_objects_tracker.py
 ## How to Use the App
 
 1. Run the script. It will automatically open the webcam feed and start the detection process.
-2. Speak a command to the system, such as "Track person" or "Track car".
+2. Speak a command to the system, such as "Track person" or "Track car" or "find a person" or "look for a car".
 3. The application will listen for objects to track and update the displayed video feed with bounding boxes for the tracked objects.
 4. For compound commands, you can say things like "Track bottle and chair".
 5. Press `q` to quit the program.
